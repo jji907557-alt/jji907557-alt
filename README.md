@@ -2,7 +2,6 @@
   <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/fan-1.gif" alt="复古旋转风扇" />
   <br />
   <img src="https://raw.githubusercontent.com/fnky/fnky/fnky/img/welcome-fire.gif" alt="火焰 Welcome" />
-  <h2>內褲帝國 · jji907557-alt</h2>
   <p>欢迎来到我的互联网小角落。</p>
   <p><samp>PERSONAL HOMEPAGE · GIFs WELCOME · GOOD VIBES ONLY</samp></p>
 </div>

@@ -32,6 +32,22 @@
 
 <br />
 
+<!-- star-history:start -->
+<div align="center">
+  <h3>⭐ 星星成长日记</h3>
+  <p>记录这个小角落的 Star 变化。</p>
+  <a href="https://www.star-history.com/?repos=jji907557-alt%2Fjji907557-alt&amp;type=date&amp;legend=top-left">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=jji907557-alt/jji907557-alt&amp;type=date&amp;theme=dark&amp;legend=top-left" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=jji907557-alt/jji907557-alt&amp;type=date&amp;legend=top-left" />
+      <img src="https://api.star-history.com/chart?repos=jji907557-alt/jji907557-alt&amp;type=date&amp;legend=top-left" width="600" alt="我的手绘 Star 历史曲线图" />
+    </picture>
+  </a>
+</div>
+<!-- star-history:end -->
+
+<br />
+
 <div align="center">
   <h3>📖 访客留言簿 / Guestbook</h3>
   <p>路过也可以打个招呼。点击下面的留言簿，留下你的足迹！</p>
